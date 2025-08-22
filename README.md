@@ -14,6 +14,7 @@ It provides quizzes on **Java, Python, and JavaScript**, with independent servic
 
 
 ## 🛠️ Tech Stack  
+**Frontend:** React.js (Create React App), Bootstrap 
 **Backend:** Spring Boot, Spring Cloud, Spring Data JPA  
 **Databases:** MySQL (separate DB for each microservice)  
 **Service Registry:** Eureka Server & Clients  
